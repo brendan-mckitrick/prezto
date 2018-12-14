@@ -38,6 +38,8 @@ zstyle ':prezto:load' pmodule \
   'prompt' \
   'git' \
   'osx' \
+  'history-substring-search' \
+  'git' \
   'prezto-module-custom'
 
 #
